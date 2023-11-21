@@ -1,0 +1,9 @@
+void main() {
+    print ('Halo, Saya Baiq Fadila');
+String perkenalan = "Nama Lengkap Saya";
+String namaDepan = "Baiq";
+String namaBelakang = "Fadilatul Islamiah";
+String alamat = "Lombok Tengah";
+String namaLengkap = namaDepan +" "+namaBelakang+" "+alamat + " "+perkenalan;
+print (namaLengkap);
+}
